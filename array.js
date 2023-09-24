@@ -5,3 +5,6 @@ var thirdElementSecondBracket = myVar[1][2];
 
 console.log(firstElementFirstBracket);
 console.log(thirdElementSecondBracket);
+
+//see that here were not modifying the data but only accessing it, the 
+//console logs are showing the respective output of the aimed data.
