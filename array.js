@@ -8,3 +8,5 @@ console.log(thirdElementSecondBracket);
 
 //see that here were not modifying the data but only accessing it, the 
 //console logs are showing the respective output of the aimed data.
+
+//Esconda me em ti, nas asas do seu amor. Limpa tua noiva Deus, nos veste justiça e nos faz brilhar de novo.
